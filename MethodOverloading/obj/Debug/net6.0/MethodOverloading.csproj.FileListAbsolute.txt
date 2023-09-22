@@ -1,0 +1,15 @@
+/Users/tunzale/Projects/MethodOverloading/MethodOverloading/obj/Debug/net6.0/MethodOverloading.csproj.AssemblyReference.cache
+/Users/tunzale/Projects/MethodOverloading/MethodOverloading/obj/Debug/net6.0/MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tunzale/Projects/MethodOverloading/MethodOverloading/obj/Debug/net6.0/MethodOverloading.AssemblyInfoInputs.cache
+/Users/tunzale/Projects/MethodOverloading/MethodOverloading/obj/Debug/net6.0/MethodOverloading.AssemblyInfo.cs
+/Users/tunzale/Projects/MethodOverloading/MethodOverloading/obj/Debug/net6.0/MethodOverloading.csproj.CoreCompileInputs.cache
+/Users/tunzale/Projects/MethodOverloading/MethodOverloading/bin/Debug/net6.0/MethodOverloading
+/Users/tunzale/Projects/MethodOverloading/MethodOverloading/bin/Debug/net6.0/MethodOverloading.deps.json
+/Users/tunzale/Projects/MethodOverloading/MethodOverloading/bin/Debug/net6.0/MethodOverloading.runtimeconfig.json
+/Users/tunzale/Projects/MethodOverloading/MethodOverloading/bin/Debug/net6.0/MethodOverloading.dll
+/Users/tunzale/Projects/MethodOverloading/MethodOverloading/bin/Debug/net6.0/MethodOverloading.pdb
+/Users/tunzale/Projects/MethodOverloading/MethodOverloading/obj/Debug/net6.0/MethodOverloading.dll
+/Users/tunzale/Projects/MethodOverloading/MethodOverloading/obj/Debug/net6.0/refint/MethodOverloading.dll
+/Users/tunzale/Projects/MethodOverloading/MethodOverloading/obj/Debug/net6.0/MethodOverloading.pdb
+/Users/tunzale/Projects/MethodOverloading/MethodOverloading/obj/Debug/net6.0/MethodOverloading.genruntimeconfig.cache
+/Users/tunzale/Projects/MethodOverloading/MethodOverloading/obj/Debug/net6.0/ref/MethodOverloading.dll
